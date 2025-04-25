@@ -74,8 +74,8 @@ Testing the webserver.
     httpd.serve_forever()
     
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/789850a3-54d4-4f00-9664-add3a8dafc88)
-![image](https://github.com/user-attachments/assets/9ded785a-db03-4fe9-bbc5-d2eba20c364b)
+![Screenshot 2025-04-25 141038](https://github.com/user-attachments/assets/371828a6-c099-45af-8239-0515bf05bc6e)
+![Screenshot 2025-04-25 141052](https://github.com/user-attachments/assets/086f2c73-27b9-4040-bcdb-b7e395a0518d)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
